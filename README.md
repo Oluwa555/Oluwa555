@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oluwa555
+- 👋 Hi, I’m tibzie
 - 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on mobile application developer
